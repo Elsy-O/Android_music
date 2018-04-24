@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">myPhone</string>
+    <string name="play_music_btn">Jouer la musique</string>
+</resources>
