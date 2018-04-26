@@ -1,2 +1,2 @@
 # Android_test_music
-my first GitHub project with Android, to lidten music
+My first GitHub project with Android, to listen music. I'll improve it
