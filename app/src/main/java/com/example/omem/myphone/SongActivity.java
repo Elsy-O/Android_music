@@ -12,7 +12,8 @@ public class SongActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_song);
-        this.mediaPlayer.create(getApplicationContext(), R.raw.my_song_two);
+
+        this.mediaPlayer = MediaPlayer.create(getApplicationContext(), R.raw.my_song);
     }
 
     public void playMyMusic(View view) {

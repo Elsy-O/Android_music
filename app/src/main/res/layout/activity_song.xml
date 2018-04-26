@@ -7,6 +7,7 @@
     tools:context="com.example.omem.myphone.SongActivity">
 
     <Button
+        android:id="@+id/btnplay"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:onClick="playMyMusic"
